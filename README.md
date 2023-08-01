@@ -2,6 +2,7 @@
 Testing Repo for Merge Reversing
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24,5 +25,7 @@ Second brach is committing new code.
 =======
 >>>>>>> parent of 8345565 (Update README.md)
 >>>>>>> 945601496ec707bc05436dfa0bdda6a1aa6bc401
+=======
+>>>>>>> parent of 8345565 (Update README.md)
 =======
 >>>>>>> parent of 8345565 (Update README.md)
